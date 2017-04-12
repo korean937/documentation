@@ -6,6 +6,7 @@ There is also a list at [instances.mastodon.xyz](https://instances.mastodon.xyz)
 | Name | Theme/Notes, if applicable | Open Registrations | IPv6 |
 | -------------|-------------|---|---|
 | [mastodon.social](https://mastodon.social) |Flagship, quick updates|No|No|
+| [socialcs.xyz](https://socialcs.xyz) | Counter Strike Players and other games|Yes|No|
 | [securitymastod.one](https://securitymastod.one/) |Information security enthusiasts and pros|Yes|Yes|
 | [mastodon.nuzgo.net](https://mastodon.nuzgo.net/) |Mastodon instance hosted in Paris |Yes|Yes|
 | [mastodon.cx](https://mastodon.cx/) |Alternative Mastodon instance hosted in France|Yes|Yes|
